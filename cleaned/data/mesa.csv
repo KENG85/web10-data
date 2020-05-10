@@ -1,0 +1,102 @@
+Timestamp,Positon Group,Name,Weight,Rate of Perceived Exertion,Sleep,Nutrition,Motivation,Life Stress,Fatigue
+12/11/2019 7:51:08,Linebackers,Ale’a Ynigues,240.00,8,7,6,7,1,6
+12/11/2019 7:57:48,Defensive Backs,Allen Rogers,185.00,8,7,7,6,9,5
+12/11/2019 7:57:53,Linebackers,Andrew,174.00,6,8,7,10,3,5
+12/11/2019 7:55:00,Linemen,Antonio Altamirano,258.00,6,7,5,8,3,3
+12/11/2019 7:57:57,Linemen,Antonio Altamirano,258.00,6,7,5,8,3,3
+12/11/2019 7:48:58,Linebackers,Brandon Javier Rosales,175.00,7,7,7,8,9,7
+12/11/2019 7:57:57,Receivers,Chris,153.00,1,6,7,8,10,10
+12/11/2019 7:42:26,Linemen,Collin Ensing,231.90,1,6,7,7,8,9
+12/11/2019 7:57:49,Receivers,Craig Montgomery,148.00,5,6,6,7,4,3
+12/11/2019 7:41:30,Receivers,Daniel Allen Allshouse,186.00,1,6,6,7,9,8
+12/11/2019 7:57:43,Defensive Backs,Dedrick Smartt,122.00,7,7,6,10,6,5
+12/11/2019 7:57:47,Receivers,Deivert Guzman,147.00,5,6,4,10,7,8
+12/11/2019 7:57:47,Defensive Backs,Devin juarez,125.00,8,6,4,8,6,4
+12/11/2019 7:58:03,Linemen,Emilio Reyna,207.00,5,7,4,9,8,7
+12/11/2019 7:51:47,Defensive Backs,Etwood Williams,120.00,8,6,8,10,4,8
+12/11/2019 7:57:49,Linemen,Felix Saldana ,167.00,5,4,6,10,7,8
+12/11/2019 7:59:14,Linebackers,Francisco flores,190.00,7,8,7,9,6,6
+12/11/2019 7:57:46,Linemen,Hayden Harrison,270.00,2,6,2,6,6,3
+12/11/2019 7:57:43,Receivers,Isaac Montero ,230.00,9,7,8,10,7,4
+12/11/2019 7:57:49,Receivers,Isaac Santiago,141.00,7,7,6,8,3,4
+12/11/2019 7:57:53,Receivers,Ismail Sheikh,153.00,8,7,6,8,2,4
+12/11/2019 7:53:24,Linebackers,Jancarlos Rodriguez,170.00,8,7,6,8,6,4
+12/11/2019 7:57:45,Receivers,Jimmy Tapia,130.00,7,6,7,10,4,8
+12/11/2019 7:43:45,Linebackers,Jonathan,155.00,8,8,6,8,7,6
+12/11/2019 7:57:50,Linemen,Joshua Guevara ,225.00,6,8,5,10,4,3
+12/11/2019 7:57:46,Linemen,Kaiden Cisneros ,190.00,4,9,7,10,4,3
+12/11/2019 7:52:13,Receivers,Kanye Berry ,159.00,8,5,5,8,8,3
+12/11/2019 7:53:31,Receivers,Kvon Elijah Sutton “Vonn”,150.00,8,5,3,10,3,8
+12/11/2019 7:50:49,Linebackers,Kyle Whitlock,164.00,6,7,5,10,4,1
+12/11/2019 8:11:42,Linemen,Mason Ennen,197.00,4,6,4,9,5,4
+12/11/2019 7:53:23,Linemen,Mason Guerrero,167.00,8,9,4,9,4,7
+12/11/2019 7:57:12,Linemen,Matthew overman,195.00,4,8,3,10,5,3
+12/11/2019 7:51:03,Receivers,Mirick connors,145.00,8,5,3,10,3,9
+12/11/2019 7:51:38,Receivers,Mirick connors,145.00,8,5,3,10,3,9
+12/11/2019 7:57:47,Linemen,Nicholas Kempton,190.00,4,5,6,10,6,3
+12/11/2019 7:57:47,Linebackers,Philip Anguiz,149.60,7,7,5,8,9,5
+12/11/2019 7:50:07,Receivers,Rico,126.00,1,9,6,7,1,5
+12/11/2019 7:58:03,Defensive Backs,Rmarion,128.00,5,9,6,6,6,6
+12/11/2019 7:50:57,Linebackers,Samuel Rodriguez,185.00,7,8,7,10,7,5
+12/11/2019 7:54:45,Linemen,Tevita Fetu'u ,220.00,5,5,3,1,1,2
+12/11/2019 7:58:12,Defensive Backs,Thomas Snell,133.00,5,6,7,8,3,4
+12/11/2019 7:57:50,Linemen,Timothy Timberlake,220.00,7,8,5,7,9,6
+12/11/2019 7:51:04,Linemen,Tristen neely ,184.00,7,9,5,10,4,5
+12/11/2019 8:08:11,Defensive Backs,Tyhier ,108.00,7,7,6,10,1,1
+12/11/2019 7:58:11,Quarterbacks,Cy Schmaltz,153.00,5,8,5,8,2,6
+12/11/2019 7:57:57,Linemen,Tyrus Randall,200.00,9,7,5,10,10,7
+12/11/2019 7:49:43,Defensive Backs,Vairik Stephens,93.00,2,8,4,10,7,5
+12/11/2019 7:57:56,Linemen,Vole Tei,195.80,4,4,1,8,1,8
+12/11/2019 8:04:20,Quarterbacks,gabby mendoza,158.00,5,7,6,9,2,2
+12/11/2019 7:48:31,Linemen,Wyatt,285.00,6,8,5,10,5,3
+12/11/2019 7:58:41,Linebackers,Zeth Nastal ,219.00,5,7,7,9,4,8
+12/11/2019 22:50:30,Linebackers,Philip Anguiz,149.60,7,7,5,8,9,5
+12/12/2019 8:13:19,Linemen,Mason Ennen,200.00,6,6,8,9,6,6
+12/12/2019 8:30:47,Linebackers,Kyle Whitlock,164.00,5,6,7,10,4,2
+12/12/2019 10:26:45,Receivers,Craig Montgomery,148.00,6,6,5,8,3,3
+12/12/2019 10:26:56,Receivers,Kanye Berry,159.00,7,7,6,8,2,3
+12/12/2019 10:50:46,Linemen,Matthew Overman,195.00,4,8,6,10,5,3
+12/12/2019 10:58:26,Linebackers,Brandon Javier Rosales,175.00,6,7,6,9,7,3
+12/12/2019 11:45:32,Defensive Backs,Rmarion,128.00,5,6,4,5,6,5
+12/13/2019 8:29:22,Linemen,Mason Ennen,200.00,6,7,6,9,5,4
+12/13/2019 9:31:23,Linemen,Matthew Overman,195.00,3,6,7,10,6,3
+12/13/2019 12:32:05,Receivers,Craig Montgomery,148.00,6,5,4,6,3,3
+12/13/2019 13:01:29,Linebackers,Samuel Rodriguez,183.00,5,8,7,9,4,5
+12/13/2019 15:03:21,Linebackers,Brandon Javier Rosales,175.00,4,7,7,9,7,3
+12/13/2019 15:43:14,Receivers,Ismail Sheikh,153.00,4,7,8,8,3,2
+12/13/2019 17:42:56,Linemen,Tristen Neely,184.00,5,7,5,10,2,5
+12/13/2019 21:00:36,Linebackers,Andrew,174.00,6,6,8,10,3,3
+12/13/2019 22:04:43,Linebackers,Samuel Rodriguez,183.00,5,8,7,9,4,5
+12/16/2019 17:36:54,Linemen,Matthew Overman,195.00,5,7,8,10,6,4
+12/17/2019 15:36:43,Linebackers,Andrew,174.00,8,6,7,10,3,3
+12/17/2019 17:17:07,Receivers,Ismail Sheikh,153.00,4,7,7,8,1,1
+12/17/2019 19:40:14,Linemen,Matthew Overman,195.00,6,6,8,9,6,4
+12/18/2019 17:56:25,Linebackers,Andrew,174.00,7,7,7,10,2,3
+12/18/2019 19:12:32,Receivers,Ismail Sheikh,153.00,4,8,9,8,1,1
+12/19/2019 7:47:42,Linebackers,Ale'a Ynigues,245.00,7,7,6,9,1,6
+12/19/2019 9:32:38,Linebackers,Ale'a Ynigues,245.00,7,7,6,9,1,6
+1/6/2020 20:26:31,Receivers,Kanye Berry,160.00,8,3,7,8,8,7
+1/8/2020 17:49:48,Receivers,Ismail Sheikh,153.00,7,6,8,8,2,2
+1/9/2020 19:27:05,Receivers,Ismail Sheikh,153.00,6,7,9,9,1,1
+1/14/2020 9:18:05,Receivers,Ismail Sheikh,153.00,8,5,8,9,1,2
+1/14/2020 18:41:32,Receivers,Kanye Berry,150.00,7,5,7,9,10,8
+1/14/2020 23:00:27,Receivers,Ismail Sheikh,153.00,8,6,9,9,1,3
+1/21/2020 13:04:40,Linebackers,Samuel Rodriguez,185.00,7,8,7,10,6,6
+1/22/2020 22:31:45,Linemen,Tristen Neely,184.00,7,7,4,8,4,6
+1/23/2020 14:30:29,Linemen,Tyrus Randall,19.00,9,7,7,8,9,8
+1/24/2020 22:06:37,Linebackers,Brandon Javier Rosales,184.00,7,6,5,10,7,7
+1/27/2020 10:34:22,Linebackers,Samuel Rodriguez,185.00,6,8,7,9,5,6
+1/28/2020 10:43:58,Linebackers,Samuel Rodriguez,185.00,7,8,7,10,3,6
+2/6/2020 12:20:25,Receivers,Ismail Sheikh,153.00,9,6,8,10,1,3
+2/6/2020 12:23:22,Linebackers,Samuel Rodriguez,185.00,8,8,6,10,3,5
+2/7/2020 17:43:08,Linebackers,Samuel Rodriguez,185.00,6,8,6,10,5,5
+2/7/2020 21:37:26,Linebackers,Brandon Javier Rosales,183.00,7,6,7,10,6,7
+2/19/2020 9:05:40,Linebackers,Samuel Rodriguez,185.00,7,8,8,10,3,6
+2/20/2020 8:00:44,Linebackers,Samuel Rodriguez,185.00,8,8,8,10,2,6
+2/21/2020 13:27:50,Linebackers,Samuel Rodriguez,185.00,6,8,8,10,3,3
+2/22/2020 9:52:43,Linebackers,Samuel Rodriguez,185.00,6,8,8,10,3,3
+2/24/2020 20:41:24,Linebackers,Samuel Rodriguez,185.00,8,8,6,10,1,8
+2/25/2020 9:33:19,Linebackers,Samuel Rodriguez,185.00,9,8,8,10,1,6
+2/26/2020 20:17:44,Linebackers,Samuel Rodriguez,185.00,7,8,7,10,3,3
+2/27/2020 13:05:39,Linebackers,Samuel Rodriguez,185.00,1,8,7,10,1,4
+2/28/2020 10:14:35,Linebackers,Samuel Rodriguez,185.00,9,8,7,10,1,6
